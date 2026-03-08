@@ -1,24 +1,13 @@
 # 👋 Hey, ich bin Wolleydox
 
 💻 Ich programmiere seit über **10 Jahren** und entwickle Software, Game Server Systeme und Webanwendungen.  
-Mein Fokus liegt auf **Game Server Development, Backend-Systemen, modernen Web Interfaces** und **Custom Tools**.
+Ich arbeite hauptsächlich an **Game Server Development, Backend-Systemen und modernen Web Interfaces**.
 
 ---
 
-## 🔥 Über mich
+# 🚀 Tech Stack
 
-- 👨‍💻 **10+ Jahre Programmiererfahrung**  
-- 🧠 Fokus auf **sauberen, performanten Systemen**  
-- 🎮 **Game Server Development**: FiveM (ESX/Custom Systems), Minecraft (Spigot/Bukkit)  
-- 🌐 **Web Development**: Frontend Interfaces, Admin Panels, NUI Systeme  
-- 🗄️ **Backend**: APIs, Datenbank-Systeme, Serverlogik  
-- 🎨 UI / UX Erfahrung mit modernen Frameworks (Vue.js, React)  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+### 👨‍💻 Languages
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,61 +16,62 @@ Mein Fokus liegt auf **Game Server Development, Backend-Systemen, modernen Web I
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Frontend / UI
+---
+
+### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 🌍 Areas of Expertise
+# 🧠 Development Areas
 
 ### 🎮 Game Development
-- FiveM Script Development (ESX / Custom Systems)  
-- Minecraft Plugin Development (Spigot / Bukkit)  
-- Custom Game Server Tools & Automations  
+* FiveM Script Development (ESX / Custom Systems)
+* Minecraft Plugin Development (Spigot / Bukkit)
+* Game Server Systems
 
 ### 🗄️ Backend Development
-- API Development  
-- Datenbank-Systeme (MySQL, MariaDB, SQL)  
-- Serverlogik, Cron Jobs, Automatisierungen  
+* Database Systems
+* APIs
+* Server Logic
+* Game Systems
 
-### 🌐 Web Development
-- Frontend Interfaces & Admin Panels  
-- NUI Systems für Gameserver  
-- Modern Web Apps mit Vue.js / React  
-
-### ⚡ Sonstiges
-- Performance Optimierung  
-- Saubere Code-Architektur  
-- Tools & Scripts für Servermanagement  
+### 🌍 Web Development
+* Modern Web Apps
+* NUI Interfaces
+* Admin Panels
+* UI / UX Systems
 
 ---
 
-## ⭐ Projekte & Highlights
+# 📊 GitHub Stats (funktionierend)
 
-- Über **10 Jahre Erfahrung** in Game Server Development und Web Development  
-- Zahlreiche **Custom Scripts, Plugins und Server Tools** entwickelt  
-- Fokus auf **effiziente Datenbankstrukturen und UI / UX**  
-- Erfahrung mit **größeren Projekten und langfristigen Systemen**  
+![Wolleydox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wolleydox&show_icons=true&count_private=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolleydox&layout=compact&theme=radical)
 
-## 📈 GitHub Übersicht (ohne externe Stats-Server)
-
-Hier siehst du eine Übersicht meiner **Top Languages** anhand der Badges oben.  
-Die **Commits & Contributions** sind über GitHubs eigenes Profil sichtbar.  
+> ⚠️ **Hinweis:** Wenn du weiterhin 503/401 Fehler bekommst, müssen wir die Stats **auf einen eigenen Vercel Deploy klonen**. Ich kann dir das direkt als fertige Anleitung + Link einrichten, dann läuft es **100% zuverlässig**.
 
 ---
 
-## 📫 Kontakt
+# 🧩 Experience
 
-Wenn du an Projekten interessiert bist oder Fragen hast:
+🧠 **10+ Jahre Programmiererfahrung**  
 
-- 📧 Email: `deine-email@example.com`  
-- 💬 GitHub: [Wolleydox](https://github.com/Wolleydox)  
+Ich entwickle Systeme wie:
+
+* Game Server Framework Erweiterungen
+* Datenbankbasierte Systeme
+* UI Systeme (HTML / Vue / React)
+* Backend APIs
+* Custom Server Tools
 
 ---
 
-⭐ Wenn dir meine Projekte gefallen, lass gerne einen **Star** auf meinen Repositories da!
+# ⭐ Support
+
+Wenn dir meine Projekte gefallen:  
+⭐ Lass gerne einen **Star auf meinen Repositories** da!
