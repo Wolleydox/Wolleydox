@@ -55,9 +55,9 @@ Ich arbeite hauptsächlich an **Game Server Development, Backend-Systemen und mo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wolleydox&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolleydox&theme=dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wolleydox&layout=compact&theme=tokyonight)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wolleydox&theme=react-dark)
 
 ---
 
