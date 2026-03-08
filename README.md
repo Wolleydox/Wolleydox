@@ -1,82 +1,47 @@
-# 👋 Hey, ich bin ein Software Developer
+# 👋 Hey, ich bin Wolleydox
 
-💻 Ich programmiere seit über **10 Jahren** und entwickle Software, Game Server Systeme und Webanwendungen.
-
-Ich arbeite hauptsächlich an **Game Server Development, Backend-Systemen und modernen Web Interfaces**.
+💻 Ich programmiere seit über **10 Jahren** und entwickle Software, Game Server Systeme und Webanwendungen.  
+Mein Fokus liegt auf **Game Server Development, Backend-Systemen und modernen Web Interfaces**.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
+### Programming Languages
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend / UI
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-### 🌐 Frontend
+## 🌍 Areas of Expertise
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
----
-
-# 🧠 Development Areas
-
-### 🎮 Game Development
-
-* FiveM Script Development (ESX / Custom Systems)
-* Minecraft Plugin Development (Spigot / Bukkit)
-* Game Server Systems
-
-### 🗄️ Backend Development
-
-* Database Systems
-* APIs
-* Server Logic
-* Game Systems
-
-### 🌍 Web Development
-
-* Modern Web Apps
-* NUI Interfaces
-* Admin Panels
-* UI / UX Systems
+- 🎮 **Game Server Development** (FiveM, Minecraft)
+- 🗄️ **Backend Systems** & APIs
+- 🌐 **Web Apps & NUI Interfaces**
+- ⚡ **Custom Tools & Automation**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolleydox&theme=dark)
+Hier statt der Vercel-Stats ein sauberer **Contribution Graph**:  
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wolleydox&theme=react-dark)
-
----
-
-# 🧩 Experience
-
-🧠 **10+ Jahre Programmiererfahrung**
-
-Ich entwickle Systeme wie:
-
-* Game Server Framework Erweiterungen
-* Datenbankbasierte Systeme
-* UI Systeme (HTML / Vue / React)
-* Backend APIs
-* Custom Server Tools
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Wolleydox&theme=react-dark&hide_border=true)
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
-Wenn dir meine Projekte gefallen:
-
+Wenn dir meine Projekte gefallen:  
 ⭐ Lass gerne einen **Star auf meinen Repositories** da!
