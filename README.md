@@ -53,15 +53,11 @@ Ich arbeite hauptsächlich an **Game Server Development, Backend-Systemen und mo
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats Alternative
 
-![Wolleydox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wolleydox&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolleydox&layout=compact&langs_count=10&theme=radical&hide_title=false)
-
+![Top Language JavaScript](https://img.shields.io/badge/Top_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Top Language Lua](https://img.shields.io/badge/Top_Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolleydox&theme=radical&hide_border=false)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Wolleydox&theme=react-dark&hide_border=false)
 
 ---
 
