@@ -53,10 +53,8 @@ Ich arbeite hauptsächlich an **Game Server Development, Backend-Systemen und mo
 
 ---
 
-# 📊 GitHub Stats Alternative
+# 📊 GitHub Stats
 
-![Top Language JavaScript](https://img.shields.io/badge/Top_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Top Language Lua](https://img.shields.io/badge/Top_Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolleydox&theme=radical&hide_border=false)
 
 ---
