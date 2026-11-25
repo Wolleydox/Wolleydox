@@ -2,7 +2,7 @@
 
 ### Software Developer · Backend Engineering · Game Server Development
 
-I'm a software developer with over 10 years of experience building software, backend systems and custom solutions. I enjoy working on challenging projects, developing efficient systems and turning ideas into reliable applications.
+I'm a software developer with over 12 years of experience building software, backend systems and custom solutions. I enjoy working on challenging projects, developing efficient systems and turning ideas into reliable applications.
 
 ---
 
