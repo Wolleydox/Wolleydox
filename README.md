@@ -1,80 +1,90 @@
-# 👋 Hey, ich bin ein Software Developer
+# Wolleydox
 
-💻 Ich programmiere seit über **10 Jahren** und entwickle Software, Game Server Systeme und Webanwendungen.
+**Software Developer · Backend Engineering · Game Server Development**
 
-Ich arbeite hauptsächlich an **Game Server Development, Backend-Systemen und modernen Web Interfaces**.
+I’m a software developer with over 10 years of programming experience, focused on building custom software, backend systems, game server solutions and modern web applications.
 
----
-
-# 🚀 Tech Stack
-
-### 👨‍💻 Languages
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+My work combines backend architecture, database-driven applications and user-focused interfaces. I enjoy developing independent projects, building custom frameworks and turning ideas into reliable software.
 
 ---
 
-### 🌐 Frontend
+## About Me
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+- **Focus:** Software Development, Backend Engineering & Game Server Development
+- **Experience:** 10+ years of programming
+- **Interests:** Custom Frameworks, APIs, Database Systems & Web Applications
+- **Currently working with:** FiveM, Minecraft and custom software solutions
 
----
-
-# 🧠 Development Areas
-
-### 🎮 Game Development
-
-* FiveM Script Development (ESX / Custom Systems)
-* Minecraft Plugin Development (Spigot / Bukkit)
-* Game Server Systems
-
-### 🗄️ Backend Development
-
-* Database Systems
-* APIs
-* Server Logic
-* Game Systems
-
-### 🌍 Web Development
-
-* Modern Web Apps
-* NUI Interfaces
-* Admin Panels
-* UI / UX Systems
+I value clean code, maintainable architecture, performance and practical solutions.
 
 ---
 
-# 📊 GitHub Stats
+## Technologies & Tools
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wolleydox&theme=radical&hide_border=false)
+**Programming Languages**
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Technologies**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Development Areas**
+
+- Game Server Development — FiveM & Minecraft
+- Backend Development — APIs, Services & Server Architecture
+- Database Engineering — MySQL, MariaDB & Entity Framework Core
+- Frontend Development — Vue.js, React & Modern Web Interfaces
+- Custom Software — Frameworks, Tools & Automation
 
 ---
 
-# 🧩 Experience
+## Featured Projects
 
-🧠 **10+ Jahre Programmiererfahrung**
+### [ChestCheck](https://github.com/Wolleydox/ChestCheck)
 
-Ich entwickle Systeme wie:
+A lightweight Minecraft plugin developed in Java using the Spigot API.
 
-* Game Server Framework Erweiterungen
-* Datenbankbasierte Systeme
-* UI Systeme (HTML / Vue / React)
-* Backend APIs
-* Custom Server Tools
+- Configurable item limits for chests
+- Automatic chest protection
+- Customizable messages and configuration
+- Designed for Spigot and Paper servers
 
 ---
 
-# ⭐ Support
+## Development Philosophy
 
-Wenn dir meine Projekte gefallen:
+I believe good software should be more than just functional.
 
-⭐ Lass gerne einen **Star auf meinen Repositories** da!
+My focus is on:
+
+- **Code Quality** — Maintainable and structured code.
+- **Performance** — Efficient implementations and optimized systems.
+- **Scalability** — Architecture that can grow with a project.
+- **Reliability** — Stable solutions designed for real-world use.
+
+---
+
+## Contact & Links
+
+**GitHub:** [github.com/Wolleydox](https://github.com/Wolleydox)  
+**Nyro Service:** [Discord Community](https://discord.gg/nyroservice)
+
+For development inquiries, collaborations or project discussions, feel free to get in touch.
+
+---
+
+<p align="center">
+  <sub>Building software, solving problems and continuously improving.</sub>
+</p>
